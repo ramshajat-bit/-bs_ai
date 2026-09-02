@@ -10,7 +10,9 @@ this is <sup>super script</sup>\
 ```
 user_name = enter your name
 password = password
-```\
+```
+
+list example
 - George Washington
 * John Adams
 + Thomas Jefferson
